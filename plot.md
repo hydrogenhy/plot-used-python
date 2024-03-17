@@ -20,3 +20,5 @@
  必备`matlabplot`库。
 
 可自行拓展`plotly`, `seaborn`库。
+
+![](fig/封面.png)
